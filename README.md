@@ -19,7 +19,8 @@ npm start
 
 
 ## Project Screenshots
-<img src="https://i.postimg.cc/TKDR5fnW/Rewards-Calculator1.png"/>
+<img src="https://i.imgur.com/JAojZXi.png"/>
+<img src="https://i.imgur.com/c6ojGHO.png"/>
 ## Troubleshooting
 
 ```
