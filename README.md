@@ -19,7 +19,7 @@ npm start
 
 
 ## Project Screenshots
-
+<img src="https://i.postimg.cc/TKDR5fnW/Rewards-Calculator1.png"/>
 ## Troubleshooting
 
 ```
