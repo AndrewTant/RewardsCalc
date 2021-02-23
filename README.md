@@ -21,6 +21,7 @@ npm start
 ## Project Screenshots
 <img src="https://i.imgur.com/JAojZXi.png"/>
 <img src="https://i.imgur.com/c6ojGHO.png"/>
+
 ## Troubleshooting
 
 ```
