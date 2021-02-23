@@ -58,9 +58,6 @@ public class CustomerController {
                 price = price - 50;
                 rewards += price;
             }
-            if(price == 50){
-                rewards += 50;
-            }
             if(withinThree == true)
                 jsonObject.put("rewards", rewards);
             else
